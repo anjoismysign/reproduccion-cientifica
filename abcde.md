@@ -1,3 +1,8 @@
+### contexto resumido
+deepseek hizo de dominio publico un approach que endogamicamente generaba generalizacion a base de mas generalizacion.
+haciendo analogia al adn, la endogamia iba eventualmente a podrir los futuros conocimientos, ya que existe la probabilidad de reproducir una mala generacion.
+esto se soluciona con una ampliacion al gan, existiendo mas de un discriminador. para temas relacionados a logica (matematica o desarrollo de software), se puede emplear el uso de compiladores y practicas de desarrollo seguro, como unit testing o incluso retroalimentando a generaciones fallidas mediante el uso de stacktraces. para conocimientos no tan practicos, se pueden emplear SMLs especializados en tareas determinadas, o incluso el uso de un RAG o search engine para verificacion de datos, y eventualmente un ultimo discriminador iba a decidir si era correcto, basandose en la finita linea de si el lenguaje empleado por estos modelos auto reflectivos y de aprendizaje continuo, sigue manteniendo el significado original al lenguaje vernaculo actual, el lenguaje del pueblo
+
 ### contexto no resumido/generalizado
 
 - https://www.youtube.com/watch?v=3nM5R23eGkE (timestamp: 15:55 - 16:24, explican en espaniol la recursividad de montecarlo tree search + reinforcement learning)
