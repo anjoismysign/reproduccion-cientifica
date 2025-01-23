@@ -17,9 +17,10 @@ ejemplo de genie/lamp en un unico agente (uso de tools por ejemplo)
 
 ### lo siguiente es un breve ejemplo de un sistema agentico durante post entrenamiento
 empero, mediante lo demostrado por deepseek en sus modelos de razonamiento, se podria aplicar para generacion de datos sinteticos de mayor calidad.
-siendo estos modelos meras aplicaciones del argumento de la habitacion china, a escalas titanicas de parametros, cuando una maquina i/o demuestra generaizacion, significa que si existe la generacion de conocimiento, que se podria no solo observar pero incluso demostrar con teorias de por medio, teorias que incluso podrian
+siendo estos modelos meras aplicaciones del argumento de la habitacion china, a escalas titanicas de parametros, cuando una maquina i/o demuestra generalizacion, significa que si existe la generacion de conocimiento, que se podria no solo observar pero incluso demostrar con teorias de por medio, teorias que incluso podrian
 generarse sinteticamente.
-el metodo cientifico pasa a ser el verdugo al valor del conocimiento, ya que todo conocimiento dejara de tener valor siempre y cuando pueda ser derivado de ciencia, permitiendo a si mismo inversion o como minimo la reproduccion por teoria
+el metodo cientifico pasa a ser el verdugo al valor del conocimiento, ya que todo conocimiento deja de tener valor siempre y cuando pueda ser derivado de ciencia, permitiendo a si mismo inversion o como minimo la reproduccion por teoria.
+siento la necesidad de compartir que estamos atravesando las puertas de una era en la que los dos unicos limites frente a la singularidad van a ser constantes; cuanta informacion puede almacenar el factor de forma de 2.5 pulgadas, cuantos datos se necesitan para atribuirse a deidad...
 
 **source original**
 
