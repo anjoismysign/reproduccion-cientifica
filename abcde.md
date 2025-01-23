@@ -21,6 +21,7 @@ siendo estos modelos meras aplicaciones del argumento de la habitacion china, a 
 generarse sinteticamente.
 el metodo cientifico pasa a ser el verdugo al valor del conocimiento, ya que todo conocimiento deja de tener valor siempre y cuando pueda ser derivado de ciencia, permitiendo a si mismo inversion o como minimo la reproduccion por teoria.
 siento la necesidad de compartir que estamos atravesando las puertas de una era en la que los dos unicos limites frente a la singularidad van a ser constantes; cuanta informacion puede almacenar el factor de forma de 2.5 pulgadas, cuantos datos se necesitan para atribuirse a deidad...
+los humanos somos el cuello de botella?
 
 **source original**
 
