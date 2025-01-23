@@ -19,7 +19,7 @@ ejemplo de genie/lamp en un unico agente (uso de tools por ejemplo)
 empero, mediante lo demostrado por deepseek en sus modelos de razonamiento, se podria aplicar para generacion de datos sinteticos de mayor calidad.
 siendo estos modelos meras aplicaciones del argumento de la habitacion china, a escalas titanicas de parametros, cuando una maquina i/o demuestra generaizacion, significa que si existe la generacion de conocimiento, que se podria no solo observar pero incluso demostrar con teorias de por medio, teorias que incluso podrian
 generarse sinteticamente.
-el metodo cientifico pasa a ser el verdugo al valor del conocimiento, ya que todo conocimiento dejara de tener valor siempre y cuando pueda ser derivado de ciencia.
+el metodo cientifico pasa a ser el verdugo al valor del conocimiento, ya que todo conocimiento dejara de tener valor siempre y cuando pueda ser derivado de ciencia, permitiendo a si mismo inversion o como minimo la reproduccion por teoria
 
 **source original**
 
