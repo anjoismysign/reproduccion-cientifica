@@ -251,7 +251,7 @@ se enseniara maniana?
 si fuera ciencia la busqueda de la verdad,
 entonces a como hoy medio luis dice estar loco y debe buscar ayuda,
 podria maniana medio Naranjo, ser genio???
-que es ser genio??? el iq no es consenso de inteligencia
+que es ser genio??? es iq al igual que todo, consenso de inteligencia, nada como Nada...
 se econtraria Empatia con Ego? o trabaja ella y el otro ensenia?
 pseudo o ciencia, solo puede ser ciencia verdugo,
 bajo el dominio del lenguaje, existir en el mismo universo,
@@ -268,7 +268,7 @@ https://discord.gg/ajneb97-698332177137401987
 
 ```
 Me gustaría que al igual que pude perdonar a Sebastián Agüero, oriundo de Pozos de Santa Ana.
-Me gustaría que al igual que perdoné a Khrystyian Danylenko, a Alex Gheorghe Calin Blejdea, a quien está detrás de UniverseSpigot y mantiene un pseudónimo similar al de Jake Potrebic, al igual que Jesús Benitez y todos aquellos que hicieron SPYR Inc un cash grab -> exit scam.
+Me gustaría que al igual que perdoné a Khrystyian Danylenko, a Alex Gheorghe Calin Blejdea, a quien esté detrás de UniverseSpigot y mantiene un pseudónimo similar al de Jake Potrebic, al igual que Jesús Benitez y todos aquellos que hicieron SPYR Inc un cash grab -> exit scam.
 
 No es necesario amarse cuando otros 8 mil millones de personas te aman
 ```
