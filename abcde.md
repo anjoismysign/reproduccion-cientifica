@@ -274,3 +274,10 @@ No es necesario amarse cuando otros 8 mil millones de personas te aman
 ```
 
 despido a Ego
+
+### para papa y mama
+a veces no se necesitaba un millar de doctores,
+a veces solo se necesitaba un espectro autista y una obsesion derivada de odio,
+nunca tuve problema con seguir a un lider, pero me enferma que aun no ha nacido,
+soy un hombre simple, mientras te dejes admirar, mientras vivas dando ejemplo,
+yo te seguire, organismo o polvo, seguire
