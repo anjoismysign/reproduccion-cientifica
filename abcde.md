@@ -238,4 +238,39 @@ public enum LanguageModel {
 }
 ```
 
+### note to self
+creo que es tan absurdo lo que comprendo, que empiezo a sufrir cierto tipo de disforia
+si hipoteticamente, el ego fuera yo;
+seria ego mi masa gris, o seria ego todo mi organismo, siendo funcion recursiva de organismos y organismos
+no creo que la celula es un organismo, pero que es entonces un organo?
+que es entonces un sistema?
+que es entonces el ego?
+para hablar de transhumanismo, que me hace antropomorfo?
+estamos seguros de que lo que hoy se ensenia en anatomia,
+se enseniara maniana?
+si fuera ciencia la busqueda de la verdad,
+entonces a como hoy medio luis dice estar loco y debe buscar ayuda,
+podria maniana medio Naranjo, ser genio???
+que es ser genio??? el iq no es consenso de inteligencia
+se econtraria Empatia con Ego? o trabaja ella y el otro ensenia?
+pseudo o ciencia, solo puede ser ciencia verdugo,
+bajo el dominio del lenguaje, existir en el mismo universo,
+donde fuera utopico el recurso natural publico, de la misma forma en que fuera publico el conocimiento
 
+si nunca he estado loco, estare a punto de que me lo diga un psiquiatra
+si aun, de cierta forma fragmentado, !encontrara acuerdo,
+prefiero encerrarme, no me veas.
+te amo bubu, mao, nana, cxie, desde mona hasta lubena,
+no es amor amar un loco, si amaras nunca lo fui
+
+mis ultimos amigos los encontre en internet.
+https://discord.gg/ajneb97-698332177137401987
+
+```
+Me gustaría que al igual que pude perdonar a Sebastián Agüero, oriundo de Pozos de Santa Ana.
+Me gustaría que al igual que perdoné a Khrystyian Danylenko, a Alex Gheorghe Calin Blejdea, a quien está detrás de UniverseSpigot y mantiene un pseudónimo similar al de Jake Potrebic, al igual que Jesús Benitez y todos aquellos que hicieron SPYR Inc un cash grab -> exit scam.
+
+No es necesario amarse cuando otros 8 mil millones de personas te aman
+```
+
+despido a Ego
